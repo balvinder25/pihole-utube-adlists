@@ -1,1 +1,2 @@
-https://r7---sn-v2u0n-hxa6.googlevideo.com
+0.0.0.0 https://r7---sn-v2u0n-hxa6.googlevideo.com
+0.0.0.0 https://r3---sn-v2u0n-hxad.googlevideo.com
